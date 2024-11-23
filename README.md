@@ -1,2 +1,2 @@
-# learning-about-version-control
-522 Individual milestone 1
+# Learning about Version Control
+
